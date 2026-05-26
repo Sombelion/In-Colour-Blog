@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  Sombelion
 
 # Build settings
-theme: simply-cyan
+theme: minima
 plugins:
   - jekyll-feed
 
